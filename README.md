@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **lcrdz/lcrdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,3 +15,10 @@ Here are some ideas to get you started:
 -->
 
 # Luiz Cardoso :man_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lccardoso/)](https://www.linkedin.com/in/lccardoso/)
+
+### Hey there! 👋 Welcome to my profile 
+
+- 📱 I'm Android Developer on Zup Innovation
+- 📚 I really like to learn
