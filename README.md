@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ### Hey there! 👋 Welcome to my profile 
 
-- 📱 I'm Android Developer on Zup Innovation
+- 📱 I'm Android Developer on B2W Digital
 - 📚 I really like to learn
