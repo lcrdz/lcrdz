@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/lccardoso/)](https://www.linkedin.com/in/lccardoso/)
 
 ### Hey there! 👋 Welcome to my profile 
-
-- 📱 I'm Android Developer on B2W Digital
-- 📚 I really like to learn
